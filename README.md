@@ -15,4 +15,4 @@ On the homepage, actual blog content is truncated to 100 characters. On clicking
 it takes to an individual page, of each of the blog posts with full content.
 
 Alternatively, we can go to weblink/posts/post1, where post1 is the title of a particular page,
-and we get taken to that page where that posts exists.
+and we get taken to that page where that post exists.
