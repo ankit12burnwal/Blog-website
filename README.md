@@ -7,6 +7,8 @@ Contains three pages home, about us, contact us, all generated using EJS partial
 To create a new post going to weblink/compose as shown below:
 
 
+
+
 ![image](https://user-images.githubusercontent.com/108418113/195372729-75ef9d20-fbaf-4a49-a16e-d25a19b5ba6c.png)
 
 
